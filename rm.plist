@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.u9time.enterprise.qmts</string>
 				<key>bundle-version</key>
-				<string>0.6</string>
+				<string>0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
