@@ -11,7 +11,7 @@
 					    <key>kind</key>
 					    <string>software-package</string>
 					    <key>url</key>
-					    <string>http://139.196.32.109/ipa/com.gd.dhz.ipa</string>
+					    <string>http://139.196.32.109/ipa/com.u9time.enterprise.qmts.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gd.dhz</string>
+				<string>com.u9time.enterprise.qmts</string>
 				<key>bundle-version</key>
 				<string>0.6</string>
 				<key>kind</key>
